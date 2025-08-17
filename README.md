@@ -1,7 +1,3 @@
-## Building a Calculator using HTML, CSS, and JavaScript
-Here's a simple implementation of a calculator using HTML, CSS, and JavaScript.
-
-### HTML (index.html)
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -38,7 +34,6 @@ Here's a simple implementation of a calculator using HTML, CSS, and JavaScript.
 </body>
 </html>
 
-### CSS (style.css)
 .calculator {
     width: 250px;
     margin: 50px auto;
@@ -78,7 +73,6 @@ button:hover {
     background-color: #ddd;
 }
 
-### JavaScript (script.js)
 let displayValue = '';
 
 function append(value) {
